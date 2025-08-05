@@ -6,7 +6,7 @@ This is a simple web-based **Simple Interest Calculator** built using **HTML**, 
 
 ## 📷 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](/asset/img/image.png)
 
 ---
 
